@@ -1,0 +1,19 @@
+2025-11-21 17:20:21,058 - INFO - Environment ready.
+2025-11-21 17:21:17,827 - INFO - Loaded dataset: survey.csv | shape: (1259, 27)
+2025-11-21 17:22:45,702 - INFO - Copied dataframe to 'clean'.
+2025-11-21 17:23:02,658 - INFO - Invalid age rows: 8
+2025-11-21 17:23:47,904 - INFO - Dropped columns: ['Timestamp', 'comments']
+2025-11-21 17:23:58,273 - INFO - Dropped 0 rows with missing treatment. Remaining: 1251
+2025-11-21 17:25:08,702 - INFO - Saved cleaned dataset to outputs/mental_health_2014_cleaned.csv
+2025-11-21 17:25:51,970 - INFO - Saved figure: figures\age_distribution.png
+2025-11-21 17:26:09,827 - INFO - Saved figure: figures\gender_distribution.png
+2025-11-21 17:26:30,295 - INFO - Saved figure: figures\top10_countries.png
+2025-11-21 17:27:13,123 - INFO - Saved figure: figures\treatment_by_gender.png
+2025-11-21 17:28:03,406 - INFO - Saved figure: figures\country_work_interfere_pct.png
+2025-11-21 17:28:22,670 - INFO - Saved figure: figures\benefits_by_company_size.png
+2025-11-21 17:28:23,340 - INFO - Saved figure: figures\wellness_program_by_company_size.png
+2025-11-21 17:28:23,973 - INFO - Saved figure: figures\care_options_by_company_size.png
+2025-11-21 17:29:24,213 - INFO - Saved figure: figures\top5_states_treatment.png
+2025-11-21 17:29:38,414 - INFO - Saved figure: figures\treatment_by_remote.png
+2025-11-21 17:30:08,201 - INFO - Saved figure: figures\correlation_heatmap.png
+2025-11-21 17:39:37,819 - INFO - Saved summary and recommendations.
