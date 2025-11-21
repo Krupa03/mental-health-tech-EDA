@@ -19,7 +19,7 @@ Create better organizational policies for employee well-being
 Feature Type	Examples
 Demographic	Age, Gender, Country
 Workplace Details	Remote Work, Company Size
-Mental Health Indicators	Treatment, Work Interference, Benefits Availability
+Mental Health Indicators	Treatment: t, Work Interference, Benefits Availability
 
 🛠 Tools & Technologies Used
 
@@ -54,12 +54,10 @@ Decision Tree Feature Importance
 Many respondents indicated mental health challenges affecting work performance.
 Larger companies tend to offer better mental health benefits.
 Employees with prior family history were more likely to seek treatment.
-Remote workers showed a notable difference in treatment-seeking behavior (details shown in analysis).
+Remote workers exhibited a notable difference in treatment-seeking behavior (details are shown in the analysis).
 
 💡 Recommendations
 
-Increase mental health support programs, especially in small or mid-size companies.
-
+Enhance mental health support programs, particularly in small to mid-sized companies.
 Normalize mental health conversations within teams
-
 Improve access to therapy, wellness resources, and anonymous support channels
